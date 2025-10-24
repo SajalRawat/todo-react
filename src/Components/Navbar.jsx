@@ -6,7 +6,7 @@
         <ul className="nav">
     <li className="logo">tudu</li>
     <li   onClick={()=>{
-      window.open('https://github.com/SajalRawat', '_blank');
+      window.open('https://github.com/SajalRawat/todo-react', '_blank');
     }}><i data-feather="github" ></i>Github</li>
     <li onClick={()=>{
        window.open('https://www.linkedin.com/in/sajal-rawat', '_blank');
